@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>Question11_ConstructorAndStatic</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="PTra11_01.cs" />
+    <Compile Remove="PTra11_02.cs" />
+    <Compile Remove="PTra11_03.cs" />
+    <Compile Remove="PTra11_04.cs" />
+    <Compile Remove="PTra11_05.cs" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>Question10_InstanceAndClass</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="PTra10_01.cs" />
+    <Compile Remove="PTra10_02.cs" />
+    <Compile Remove="PTra10_03.cs" />
+    <Compile Remove="PTra10_04.cs" />
+    <Compile Remove="PTra10_06.cs" />
+    <Compile Remove="PTra10_07.cs" />
+  </ItemGroup>
+
+</Project>
