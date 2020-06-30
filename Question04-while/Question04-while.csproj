@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>Question04_while</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Program.cs" />
+    <Compile Remove="PTra04_01.cs" />
+    <Compile Remove="PTra04_02.cs" />
+    <Compile Remove="PTra04_03.cs" />
+    <Compile Remove="PTra04_04.cs" />
+    <Compile Remove="PTra04_05.cs" />
+  </ItemGroup>
+</Project>

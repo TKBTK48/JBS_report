@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>Question01_StartProgram</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="PTra01_01.cs" />
+    <Compile Remove="PTra01_02.cs" />
+    <Compile Remove="PTra01_03.cs" />
+    <Compile Remove="PTra01_04.cs" />
+    <Compile Remove="PTra01_05.cs" />
+    <Compile Remove="PTra01_06.cs" />
+    <Compile Remove="PTra01_07.cs" />
+    <Compile Remove="PTra01_08.cs" />
+    <Compile Remove="PTra01_09.cs" />
+  </ItemGroup>
+
+</Project>

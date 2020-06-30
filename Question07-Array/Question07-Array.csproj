@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>Question07_Array</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="PTra07_01.cs" />
+    <Compile Remove="PTra07_02.cs" />
+    <Compile Remove="PTra07_03.cs" />
+    <Compile Remove="PTra07_04.cs" />
+    <Compile Remove="PTra07_05.cs" />
+    <Compile Remove="PTra07_06.cs" />
+    <Compile Remove="PTra07_07.cs" />
+    <Compile Remove="PTra07_08.cs" />
+    <Compile Remove="PTra07_09.cs" />
+    <Compile Remove="PTra07_10.cs" />
+  </ItemGroup>
+
+</Project>
